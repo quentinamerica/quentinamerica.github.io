@@ -1,8 +1,8 @@
 ---
 layout: post
-title: This could be a blog about the podcast
-subtitle: ... watch our first episode!
-tags: [podcast, netflix, hulu]
+title: testing if works
+subtitle: ... watch our first episode next week!
+tags: [quentin, facebook, hulu]
 ---
 
 this shit gon blow up
