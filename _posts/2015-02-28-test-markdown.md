@@ -21,9 +21,9 @@ Here's a useless table:
 | Her Friend| Three | One |
 
 
-Picture of a crepe
+this nigga so ugly
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](/img/quentin.jpg)
 
 Here's a code chunk:
 
