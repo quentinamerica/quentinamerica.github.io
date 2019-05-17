@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
+title: Test Quentin's Blog 
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+gh-repo: quentinamerica/quentinamerica.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
@@ -24,7 +24,7 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+Picture of a crepe
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
