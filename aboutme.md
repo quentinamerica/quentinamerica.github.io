@@ -11,6 +11,4 @@ My name is Quentin America. I recently was with your girl.
 
 What else do you need?
 
-### my history
-
 
