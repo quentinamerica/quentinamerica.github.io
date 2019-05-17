@@ -13,12 +13,12 @@ comments: true
 
 Here's a useless table:
 
-| Number | Next number | Previous number |
+| Team| Next number | Previous number |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Jake | Six | Four |
+| Quentin | Eleven | Nine |
+| SumHo | Eight | Six |
+| Her Friend| Three | One |
 
 
 Picture of a crepe
